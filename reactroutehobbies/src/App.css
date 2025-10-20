@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+ body {
+  background-color:  #000;
+  color: #ffffff;
+ }
+
+ .container {
+  background-color: transparent;
+  padding: 2rem;
+ }
+
+ .card {
+  background-color: #888;
+  border: none;
+  color: #fff;
+ }
+
+.custom-navbar {
+  background-color: #888;
+}
+
+.custom-navbar .navbar-brand, .custom-navbar .nav-link {
+  color: white;
+}
+
+.custom-navbar .navbar-toggler {
+  border-color: white;
+  background-color: rgb(135, 135, 135);
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
